@@ -1,4 +1,4 @@
-# SpTFS
+# csTuner
 
 This directory contains the implementation of the `csTuner` framework, including `parameter grouping`, `pool sampling` and `evolutionary search`.
 
